@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanangular": {
+      "hosting": {
+        "kanban-angular": [
+          "kanbanangular"
+        ]
+      }
+    }
+  }
+}
